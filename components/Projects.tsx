@@ -12,7 +12,7 @@ import ProjectCard from "./ProjectCard";
 const Projects = () => {
   return (
     <div className="wrapper">
-      <Title text="About Me" icon={<FaProjectDiagram />} />
+      <Title text="Projects" icon={<FaProjectDiagram />} />
       <div className="text-lg tracking-wide flex flex-col gap-6">
         <p>Please refer to my GitHub link at the bottom of the page to see my projects</p>
       </div>
