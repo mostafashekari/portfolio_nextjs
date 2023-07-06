@@ -19,6 +19,10 @@ const Contact = () => {
       </div>
       <div className="mt-8 flex items-center flex-wrap   gap-8 justify-center">
         <SocialLink title="Github" link="https://github.com/mostafashekari" />
+                <SocialLink
+          title="Linkedin"
+          link="https://www.linkedin.com/in/mostafa-shekaari/"
+        />
         {/* <SocialLink title="Youtube" link="https://www.youtube.com/@reactjsBD" />
         <SocialLink
           title="Linkedin"
